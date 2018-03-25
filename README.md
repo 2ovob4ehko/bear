@@ -1,4 +1,4 @@
-Тестова Web desktop aplication на Electron framework
+Тестова Web desktop application на Electron framework
 ========================
 
 Інструкція по встановленню
